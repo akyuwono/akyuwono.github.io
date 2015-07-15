@@ -58,11 +58,13 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    background: #485D6D;
 }
 
 .wrapper {
     width: 90%;
     margin: 0 5%;
+    color: white;
 }
 
 /* ===================
@@ -70,18 +72,18 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #3366FF;
+    border-bottom: 20px solid #647583;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #3366FF;
+    border-top: 20px solid #647583;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #6699FF;
+    background: #1E3547;
 }
 
 .title {
@@ -108,7 +110,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #3366FF;
+    background: #324656;
 }
 
 nav a:hover,
